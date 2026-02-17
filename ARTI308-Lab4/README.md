@@ -1,4 +1,4 @@
-# ARTI308 – Lab 3: Exploratory Data Analysis (EDA)
+# ARTI308 – Lab 4: Exploratory Data Analysis (EDA)
 
 ## Objective
 Apply exploratory data analysis (EDA) techniques to a car price dataset in
@@ -24,4 +24,5 @@ The notebook includes the following steps:
 - Python
 - pandas
 - matplotlib
+
 - seaborn
