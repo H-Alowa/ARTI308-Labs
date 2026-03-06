@@ -1,4 +1,4 @@
-# ARTI308 Lab 5 – Vehicle Price Category Prediction
+# ARTI308 Lab 5 – Feature Engineering (Classification)
 
 ## Overview
 This lab demonstrates a complete machine learning workflow for predicting vehicle price categories using a dataset of car attributes. The goal is to classify vehicles into price groups represented by the target variable `Price_Category`.
@@ -121,5 +121,6 @@ Feature selection was performed using `SelectFromModel`, which keeps only the mo
 ---
 
 ## Conclusion
+
 
 This lab demonstrates how machine learning can be applied to structured datasets using feature engineering, categorical encoding, and ensemble models. The Random Forest model successfully learns patterns in vehicle attributes to classify cars into different price categories.
